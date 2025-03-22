@@ -18,3 +18,6 @@ const handleclear = () => {
 
 // kuno specific ta remove korte gele
  localStorage.removeItem('key dilei hobe ')
+
+
+ moduls-37
